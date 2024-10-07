@@ -8,13 +8,16 @@
  6. XgBoost
  7. Random Forest
  8. Deep Belief Network (DBN)
-![alt text](https://github.com/Ishitaa09/Chronic-Obstructive-Pulmonary-Disease-Detection-COPD-using-ML-algorithms-and-Ensemble-Learning/blob/main/Screenshot%20(161).png)
 
-Algorithm with Max Accuracy : Decison Trees Accuracy : 0.9047619047619048
+ ![alt text](https://github.com/Ishitaa09/Chronic-Obstructive-Pulmonary-Disease-Detection-COPD-using-ML-algorithms-and-Ensemble-Learning/blob/main/Screenshot%20(161).png)
+ Algorithm with Max Accuracy : Decison Trees Accuracy : 0.9047619047619048
 ## Building an Ensemble Model
 By making combinations of 2 to 3 models from the 8 and comapring to get the combination with maximum accuracy.
-Ensemble Combination with Max Accuracy : SVM - DBN - Logistic Reggression Accuracy : 0.9523809523809523
+![alt text]()
+Ensemble Combination with Max Accuracy : ## SVM - DBN - Logistic Reggression Accuracy : 0.9523809523809523
 ## Comaprision of Individual Model with Ensemble
+![alt text]()
+## Conclusion
 Max Accuracy was found in Ensemble Model of the following:
 
 1. SVM
