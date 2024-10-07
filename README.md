@@ -13,6 +13,7 @@
  Algorithm with Max Accuracy : Decison Trees Accuracy : 0.9047619047619048
 ## Building an Ensemble Model
 By making combinations of 2 to 3 models from the 8 and comapring to get the combination with maximum accuracy.
+
 ![alt text](https://github.com/Ishitaa09/Chronic-Obstructive-Pulmonary-Disease-Detection-COPD-using-ML-algorithms-and-Ensemble-Learning/blob/main/output.png)
 
 Ensemble Combination with Max Accuracy : SVM - DBN - Logistic Reggression Accuracy : 0.9523809523809523
@@ -25,4 +26,4 @@ Max Accuracy was found in Ensemble Model of the following:
 1. SVM
 2. DBN
 3. LogisticRegression
-<br>Accuracy : 0.9523809523809523
+Accuracy : 0.9523809523809523
