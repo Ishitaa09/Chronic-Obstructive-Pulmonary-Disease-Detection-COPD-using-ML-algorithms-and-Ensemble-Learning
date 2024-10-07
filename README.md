@@ -25,4 +25,4 @@ Max Accuracy was found in Ensemble Model of the following:
 1. SVM
 2. DBN
 3. LogisticRegression
-Accuracy : 0.9523809523809523
+<br>Accuracy : 0.9523809523809523
