@@ -8,3 +8,11 @@
  6. XgBoost
  7. Random Forest
  8. Deep Belief Network (DBN)
+Ensemble Combination with Max Accuracy : SVM - DBN - Logistic Reggression Accuracy : 0.9523809523809523
+## Comaprision of Individual Model with Ensemble
+Max Accuracy was found in Ensemble Model of the following:
+
+1. SVM
+2. DBN
+3. LogisticRegression
+Accuracy : 0.9523809523809523
